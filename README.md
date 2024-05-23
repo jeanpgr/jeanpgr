@@ -3,6 +3,7 @@
 
 Passionate software developer with a broad skill set, spanning from database management to creating captivating user interfaces, and extensive experience in deploying applications. :nerd_face: \
 \
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 &nbsp; &nbsp; &nbsp;• 💡I like to explore new technologies and develop innovative software solutions. \
 &nbsp; &nbsp; &nbsp;• 🤖I'm currently learning Neural Networks and Machine Learning. \
 &nbsp; &nbsp; &nbsp;• ⌛Agile development using methodologies like Scrum and XP.                                                            \
@@ -34,7 +35,7 @@ Passionate software developer with a broad skill set, spanning from database man
 <a href="https://www.linkedin.com/in/jeangrdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/jeangr_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:jean96gr@gmail.com"><img src="https://img.shields.io/badge/-jean96gr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:jean_0720@hotmail.com"><img src="https://img.shields.io/badge/-jean_0720@hotmail.com-0072C66?style=flat&logo=Hotmail&logoColor=white"/></a>
+<a href="mailto:jean_0720@hotmail.com"><img src="https://img.shields.io/badge/-jean_0720@hotmail.com-0072C66?style=flat&logo=Outlook&logoColor=white"/></a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,7 +48,7 @@ Passionate software developer with a broad skill set, spanning from database man
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,nginx,firebase,mongodb,mysql,postgres,html,css,js,nextjs,nodejs,express,java,py,php,kotlin,react,angular,ts,vscode,postman,figma,wordpress,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,firebase,mongodb,mysql,postgres,html,css,js,nodejs,express,java,py,php,kotlin,react,angular,ts,vscode,postman,figma,wordpress,notion&perline=14" />
   </a>
 </p>
 
@@ -98,9 +99,9 @@ Passionate software developer with a broad skill set, spanning from database man
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jeangrdev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/jeangr_dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/jean_jp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
