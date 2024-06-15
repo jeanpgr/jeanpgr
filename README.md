@@ -1,5 +1,5 @@
 ![Jean Girón Banner](https://github.com/jeanpgr/jeanpgr/blob/main/jeanpbanner.jpg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=header"/> 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jean Pierre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
