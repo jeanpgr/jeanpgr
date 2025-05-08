@@ -16,12 +16,12 @@ Passionate software developer with a broad skill set, spanning from database man
 &nbsp; &nbsp; &nbsp;• 🏫Technical University of Ambato - Software Engineering.
 
 ### 🛠 &nbsp;Tech Stack
-![TypyeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
+![TypyeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp; 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; \
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-316192?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![SpringBoot](https://img.shields.io/badge/SpringBoot-316192?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 
 
 ### 📫 &nbsp;Connect with me on
