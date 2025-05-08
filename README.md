@@ -17,7 +17,7 @@ Passionate software developer with a broad skill set, spanning from database man
 
 ### 🛠 &nbsp;Tech Stack
 ![TypyeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp; \
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp; 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; \
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-316192?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
