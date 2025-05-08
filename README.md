@@ -9,27 +9,20 @@ Passionate software developer with a broad skill set, spanning from database man
 &nbsp; &nbsp; &nbsp;• 💡I like to explore new technologies and develop innovative software solutions. \
 &nbsp; &nbsp; &nbsp;• 🤖I'm currently learning Neural Networks and Machine Learning. \
 &nbsp; &nbsp; &nbsp;• ⌛Agile development using methodologies like Scrum and XP.                                                            \
-&nbsp; &nbsp; &nbsp;• ⚡Fun fact: I play football, basketball and the ecuavóley!
+&nbsp; &nbsp; &nbsp;• ⚡Fun fact: I enjoy playing sports, watching TV series, and learning history.
 
 ### 🎓 &nbsp;Education
 
 &nbsp; &nbsp; &nbsp;• 🏫Technical University of Ambato - Software Engineering.
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![TypyeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp; \
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; \
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-316192?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-316192?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+
 
 ### 📫 &nbsp;Connect with me on
 <a href="https://www.linkedin.com/in/jeanpgr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -88,20 +81,6 @@ Passionate software developer with a broad skill set, spanning from database man
 
 </p>        
 <!--- stats (end) -->
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝🏻</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/jeanpgr/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/jeanpgr._/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/jean_jp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
